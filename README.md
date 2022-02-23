@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+
+### ⚡ Fun fact
+- I use too much Vim, now I cannot go back to other text editors without Vim mode (like Microsoft Word)
 
 <!--
 **tmokenc/tmokenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
