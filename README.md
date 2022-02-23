@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div id="badges">
   <a href="https://www.facebook.com/tmokenc">
@@ -11,6 +10,9 @@
     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
+
+
+## Hi there 👋
 
 ### ⚡ Fun fact
 - My nickname `tmokenc` is pretty unique, if you find any profile using this nickname, 99% it's me
