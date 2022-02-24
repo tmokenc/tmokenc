@@ -13,7 +13,7 @@
 
 
 ## Hi there 👋
-I'm a Rust and Web developer, currently coding as a hobby
+I'm a Rust and Web developer, currently coding as a hobbist
 - 🌱 I’m currently learning blockchain, especially [Solana](https://github.com/solana-labs/solana)
 
 ### Programming languages
