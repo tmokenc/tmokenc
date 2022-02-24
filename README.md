@@ -23,12 +23,12 @@ I'm a Rust and Web developer, currently coding as a hobby
 
 ### Frameworks
 I have tried a lot of frameworks, these are my favorite one
-- [Yew](https://github.com/yewstack/yew) - creating a web SPA using WebAssembly
-- [Tauri](https://github.com/tauri-apps/tauri) - creating native GUI app using web technologies (like Electron but in Rust)
+- [Yew](https://github.com/yewstack/yew) - create a web SPA using WebAssembly
+- [Tauri](https://github.com/tauri-apps/tauri) - create native GUI app using web technologies (like Electron but in Rust)
 - [egui](https://github.com/emilk/egui) - quickly create a GUI app with no fancy feature
-- [Actix-web](https://github.com/actix/actix-web) - creating a fast web server
-- [express](https://github.com/expressjs/express) - quickly creating a Node web server
-- [serenity](https://github.com/serenity-rs/serenity) - creating a Discord bot
+- [Actix-web](https://github.com/actix/actix-web) - create a fast web server
+- [express](https://github.com/expressjs/express) - quickly create a Node web server
+- [serenity](https://github.com/serenity-rs/serenity) - create a Discord bot
 
 ### :hammer: Tools
 These are tools that I use 
