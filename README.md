@@ -31,7 +31,7 @@ I have tried a lot of frameworks, these are my favorite one
 - [serenity](https://github.com/serenity-rs/serenity) - create a Discord bot
 
 ### :hammer: Tools
-These are my *must have* tools on every machine that I'm working on
+These are my everyday tools out of *hundred* of tools that I have on my machine
 - [Neovim](https://github.com/neovim/neovim) - My main text editor/IDE
 - [Vscode](https://code.visualstudio.com/) - IDE for HTML/CSS/JS development
 - [https](https://github.com/thecoshman/http) - to quickly serve files from a directory, mainly for testing WebAssembly app 
