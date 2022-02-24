@@ -31,10 +31,10 @@ I have tried a lot of frameworks, these are my favorite one
 - [serenity](https://github.com/serenity-rs/serenity) - create a Discord bot
 
 ### :hammer: Tools
-These are tools that I use 
+These are my *must have* tools on every machine that I'm working on
 - [Neovim](https://github.com/neovim/neovim) - My main text editor/IDE
 - [Vscode](https://code.visualstudio.com/) - IDE for HTML/CSS/JS development
-- [https](https://github.com/thecoshman/http) - to quickly run a http web server to test
+- [https](https://github.com/thecoshman/http) - to quickly serve files from a directory, mainly for testing WebAssembly app 
 - [sccache](https://github.com/mozilla/sccache) - to avoid building a dependency multiple times
 
 
