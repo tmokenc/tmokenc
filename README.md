@@ -1,10 +1,3 @@
-<!--
-Colors
-  Facebook: #0d8af0
-  Discord: #5865f2
-  Reddit: #ff4500
--->
-
 <div id="badges">
   <a href="https://www.facebook.com/tmokenc">
     <img src="https://img.shields.io/badge/Facebook-0d8af0?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -25,8 +18,8 @@ I'm a Rust and Web developer, currently coding as a hobbist
 ### 🌍 Natural Languages
 I'm a Vietnamese guy living in Czech Republic
 - 🇻🇳 Vietnamese - native language
-- 🇬🇧 English - excellent reading and hearing skills, useable writting skills, my speaking skills is just enough for basic conversation
-- 🇨🇿 Czech - I have completed the maturita 🎓 examination, but my Czech skills are fading slowly due to the amount of works using the Czech language, now it's only useable for a basic conversation
+- 🇬🇧 English - excellent reading and hearing skills, useable writting skills, my speaking skills is just enough for basic/daily conversations
+- 🇨🇿 Czech - I have completed the maturita 🎓 examination, but my Czech skills are fading slowly due to the amount of works using the Czech language, now it's only useable for daily conversations
 
 ### 👨‍💻 Programming Languages
 - [Rust](https://www.rust-lang.org/) - I have been working with Rust for almost 4 years, [since rust 1.25](https://blog.rust-lang.org/2018/03/29/Rust-1.25.html), it's the language that I have the most confident with :muscle:
@@ -67,4 +60,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+Colors
+  Facebook: #0d8af0
+  Discord: #5865f2
+  Reddit: #ff4500
 -->
