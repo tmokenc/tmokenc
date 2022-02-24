@@ -17,9 +17,9 @@ I'm a Rust and Web developer, currently coding as a hobby
 - 🌱 I’m currently learning blockchain, especially [Solana](https://github.com/solana-labs/solana)
 
 ### Programming languages
-- Rust - I have been working with Rust for almost 4 years, [since rust 1.25](https://blog.rust-lang.org/2018/03/29/Rust-1.25.html), it's the language that I have the most confident with :muscle:
-- JavaScript/Node - I have 2 years experience with it, but never use it in a serious project due to its unstable nature
-- C - use it for school project, I aced all the tests by just thinking about how the Rust compiler would yelling at me :sweat_smile:
+- [Rust](https://www.rust-lang.org/) - I have been working with Rust for almost 4 years, [since rust 1.25](https://blog.rust-lang.org/2018/03/29/Rust-1.25.html), it's the language that I have the most confident with :muscle:
+- [JavaScript](https://www.javascript.com/)/[Node](https://nodejs.org/en/) - I have 2 years experience with it, but never use it in a serious project due to its unstable nature
+- C ([C99](https://www.iso-9899.info/wiki/The_Standard)) - use it for school project, I aced all the tests by just thinking about how the Rust compiler would yelling at me :sweat_smile:
 
 ### Frameworks
 I have tried a lot of frameworks, these are my favorite one
