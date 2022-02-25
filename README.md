@@ -26,6 +26,12 @@ I'm a Vietnamese guy living in Czech Republic
 - [JavaScript](https://www.javascript.com/)/[Node](https://nodejs.org/en/) - I have 2 years experience with it, but never use it in a serious project due to its unstable nature
 - C ([C99](https://www.iso-9899.info/wiki/The_Standard)) - use it for school project, I aced all the tests by just thinking about how the Rust compiler would yelling at me :sweat_smile:
 
+### 💾 Databases
+- [MongoDB](https://www.mongodb.com/) - it's just being MongoDB
+- [Sled](https://github.com/spacejam/sled) - an embedded K/V database that just run directly in the Rust code setup anything
+- [DynamoDb](https://aws.amazon.com/dynamodb) - consider it's a combination of MongoDB and Sled
+- [Sqlite](https://sqlite.org/index.html) - used it to playing with other softwares
+
 ### :coffee: Frameworks
 I have tried a lot of frameworks, these are my favorite one
 - [Yew](https://github.com/yewstack/yew) - create a web SPA using WebAssembly
