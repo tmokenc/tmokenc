@@ -39,6 +39,7 @@ I have tried a lot of frameworks, these are my favorite one
 These are my everyday tools out of *hundred* of tools that I have on my machine
 - [Neovim](https://github.com/neovim/neovim) - My main text editor/IDE
 - [Vscode](https://code.visualstudio.com/) - IDE for HTML/CSS/JS development
+- [Docker](https://www.docker.com/) - for easily setup local environment, especially databases
 - [https](https://github.com/thecoshman/http) - to quickly serve files from a directory, mainly for testing WebAssembly app 
 - [sccache](https://github.com/mozilla/sccache) - to avoid building a dependency multiple times
 
