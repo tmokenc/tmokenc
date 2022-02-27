@@ -30,7 +30,7 @@ I'm a Vietnamese guy living in Czech Republic
 - [MongoDB](https://www.mongodb.com/) - it's just being MongoDB
 - [Sled](https://github.com/spacejam/sled) - an embedded K/V database that just run directly in the Rust code setup anything
 - [DynamoDb](https://aws.amazon.com/dynamodb) - consider it's a combination of MongoDB and Sled
-- [Sqlite](https://sqlite.org/index.html) - used it to playing with other softwares
+- [Sqlite](https://sqlite.org/index.html) - use it to play with other softwares
 
 ### :coffee: Frameworks
 I have tried a lot of frameworks, these are my favorite one
