@@ -41,9 +41,10 @@ I have tried a lot of frameworks, these are my favorite one
 - [express](https://github.com/expressjs/express) - quickly create a Node web server
 - [serenity](https://github.com/serenity-rs/serenity) - create a Discord bot
 
-### :hammer: Tools
-These are my everyday tools out of *hundred* of tools that I have on my machine
-- [Neovim](https://github.com/neovim/neovim) - My main text editor/IDE
+### :hammer: Development Tools
+I *heavily* dependent on these
+- [Neovim](https://github.com/neovim/neovim) ([config](/config/init.vim)) - My main text editor/IDE
+- [tmux](https://github.com/tmux/tmux) ([config](/config/.tmux.conf)) - a cool terminal multiplexer
 - [Vscode](https://code.visualstudio.com/) - IDE for HTML/CSS/JS development
 - [Docker](https://www.docker.com/) - for easily setup local environment, especially databases
 - [cross](https://github.com/cross-rs/cross) - cross compilation for Rust code
@@ -51,6 +52,13 @@ These are my everyday tools out of *hundred* of tools that I have on my machine
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - it just being FFmpeg, multimedia processing
 - [tokei](https://github.com/XAMPPRocky/tokei) - count lines of code
 - [sccache](https://github.com/mozilla/sccache) - to avoid building a dependency multiple times
+
+### Daily Life Tools
+These are my everyday tools out of *hundred* of tools that I have on my machine
+- [starship](https://github.com/starship/starship) ([config](/config/starship.toml)) - to make the terminal looks cooler
+- [MPV](https://github.com/mpv-player/mpv) - a powerful yet simple multimedia player
+- [bat](https://github.com/sharkdp/bat) - the cooler `cat`
+- [exa](https://github.com/ogham/exa) - the cooler `ls`
 
 ### ⚡ Fun fact
 - My nickname `tmokenc` is pretty unique, if you happen to know any profile using this nickname, 99% it's me
