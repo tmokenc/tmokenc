@@ -1,0 +1,11 @@
+## Location
+- [bashrc](./.bashrc) - `$HOME`
+- [tmux](./.tmux.conf) - `$HOME`
+- [starship](./starship.toml) - `$HOME/.config`
+- [MPV](./mpv.conf) 
+    - Linux: `~/.config/mpv/mpv.conf`
+    - Windows: `~/AppData/Roaming/mpv/mpv.conf`
+    - [MPV configuration file](https://mpv.io/manual/master/#configuration-files)
+- [Neovim](./init.vim)
+    - Linux: `~/.config/nvim/init.vim`
+    - Windows: `~/AppData/Local/nvim/init.vim`

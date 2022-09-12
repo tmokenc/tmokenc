@@ -56,7 +56,7 @@ I *heavily* dependent on these
 ### Daily Life Tools
 These are my everyday tools out of *hundred* of tools that I have on my machine
 - [starship](https://github.com/starship/starship) ([config](/config/starship.toml)) - to make the terminal looks cooler
-- [MPV](https://github.com/mpv-player/mpv) - a powerful yet simple multimedia player
+- [MPV](https://github.com/mpv-player/mpv) ([config](/config/mpv.conf)) - a powerful yet simple multimedia player
 - [bat](https://github.com/sharkdp/bat) - the cooler `cat`
 - [exa](https://github.com/ogham/exa) - the cooler `ls`
 
