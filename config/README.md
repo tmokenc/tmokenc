@@ -8,4 +8,5 @@
     - [MPV configuration file](https://mpv.io/manual/master/#configuration-files)
 - [Neovim](./init.vim)
     - Linux: `~/.config/nvim/init.vim`
+        - Need `xclip` to work with clipboard
     - Windows: `~/AppData/Local/nvim/init.vim`
