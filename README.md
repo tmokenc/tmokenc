@@ -29,6 +29,7 @@ I'm a Vietnamese guy living in Czech Republic
 ### 💾 Databases
 - [MongoDB](https://www.mongodb.com/) - it's just being MongoDB
 - [Sled](https://github.com/spacejam/sled) - an embedded K/V database that just run directly in the Rust code setup anything
+- [RocksDB](https://github.com/facebook/rocksdb) - a cool KV database from Facebook
 - [DynamoDb](https://aws.amazon.com/dynamodb) - consider it's a combination of MongoDB and Sled
 - [Sqlite](https://sqlite.org/index.html) - use it to play with other softwares
 
