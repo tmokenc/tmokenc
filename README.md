@@ -49,7 +49,8 @@ I *heavily* dependent on these
 - [Vscode](https://code.visualstudio.com/) - IDE for HTML/CSS/JS development
 - [Docker](https://www.docker.com/) - for easily setup local environment, especially databases
 - [cross](https://github.com/cross-rs/cross) - cross compilation for Rust code
-- [https](https://github.com/thecoshman/http) - to quickly serve files from a directory, mainly for testing WebAssembly app 
+- [https](https://github.com/thecoshman/http) - to quickly start a web server and serve files from a directory, mainly for testing WebAssembly app 
+- [miniserve](https://github.com/svenstaro/miniserve) - same as `https` but specify for serving files
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - it just being FFmpeg, multimedia processing
 - [tokei](https://github.com/XAMPPRocky/tokei) - count lines of code
 - [sccache](https://github.com/mozilla/sccache) - to avoid building a dependency multiple times
