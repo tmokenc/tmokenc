@@ -61,6 +61,7 @@ These are my everyday tools out of *hundred* of tools that I have on my machine
 - [MPV](https://github.com/mpv-player/mpv) ([config](/config/mpv.conf)) - a powerful yet simple multimedia player
 - [bat](https://github.com/sharkdp/bat) - the cooler `cat`
 - [exa](https://github.com/ogham/exa) - the cooler `ls`
+- [edtree](https://github.com/solidiquis/erdtree) - the combination of `tree` and `du` with colors
 
 ### ⚡ Fun fact
 - My nickname `tmokenc` is pretty unique, if you happen to know any profile using this nickname, 99% it's me
